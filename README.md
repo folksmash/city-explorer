@@ -25,7 +25,7 @@ Name of feature: 1 (initial set up)
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 4pm 
 
 Finish time: _____
 
