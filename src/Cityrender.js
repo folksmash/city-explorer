@@ -11,6 +11,7 @@ render(){
       <Card.Text>You viewed: {this.props.cityName}</Card.Text>
       <Card.Text>Lat: {this.props.latitude}</Card.Text>
       <Card.Text>Lon: {this.props.longitude}</Card.Text>
+      <Card.Img src={this.props.mapSource}  />
     </Card.Body>
   </Card>
   )
